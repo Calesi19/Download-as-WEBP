@@ -1,5 +1,7 @@
 # Download-as-WEBP
 
+![Banner](docs/banner.webp)
+
 A simple script to download images from a URL and convert them to WebP format. You can run the script from the terminal no matter what directory you are in. The image will download as WEBP format on that current directory. 
 
 Helpful if you are a frontend developer that often works with webp images.
